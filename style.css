@@ -81,11 +81,11 @@ footer {
     clear: both;
 }
 
-footer div.footer-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    border-top: solid 3px;
-
+    footer div.footer-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 15px;
+        width: 100%;
+        border-top: solid 3px;
     }
